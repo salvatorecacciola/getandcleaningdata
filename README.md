@@ -6,7 +6,7 @@ is part of the John Hopkins University Data Science Specialization on Coursera.
 The goal of the assignment is reading in input a number of datasets coming from wearable devices measurements and produce a tidy dataset following a list of instructions.
 As requested in the assignment instructions, this repository contains 3 files:
 * The file README.md explaining in detail how the analysis has been performed
-* The file Codebook giving detailed description of the variables in the tidy data set
+* The file Codebook.md that gives a detailed description of the variables in the tidy data set
 * The file run_analysis.R including the R script that produces the tidy dataset
 
 The original data comes from an experiment that has been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured at a constant rate of 50Hz. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
